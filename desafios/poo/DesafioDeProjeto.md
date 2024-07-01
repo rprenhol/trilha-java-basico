@@ -44,7 +44,6 @@ classDiagram
 
         +ligarAparelho()
         +desligarAparelho()
-        +desbloquearTela()
     }
 
     ReprodutorMusical <|-- SmartPhone
