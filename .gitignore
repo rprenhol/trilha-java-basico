@@ -27,3 +27,4 @@ settings.json
 
 .project
 .classpath
+module-info.java
