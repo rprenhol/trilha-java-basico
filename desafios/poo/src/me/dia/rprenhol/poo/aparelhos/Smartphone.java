@@ -1,7 +1,7 @@
 /**
  * 
  */
-package me.dia.rprenhol.poo;
+package me.dia.rprenhol.poo.aparelhos;
 
 /**
  * 
