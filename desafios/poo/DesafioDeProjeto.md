@@ -38,7 +38,7 @@ classDiagram
         +desbloquearTela()
     }
 
-    class iPhone {
+    class IPhone {
         -String modelo
         -Color cor
 
@@ -50,6 +50,6 @@ classDiagram
     AparelhoTelefonico <|-- SmartPhone
     NavegadorInternet <|-- SmartPhone
 
-    SmartPhone <|-- iPhone
+    SmartPhone <|-- IPhone
 ```
 ```` 
