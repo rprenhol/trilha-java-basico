@@ -5,6 +5,8 @@
 
 ## POO - Desafio
 
+A implementação do diagrama abaixo em Java está disponível no diretório **src**. A classe [**UsandoIPhone.java**](https://github.com/rprenhol/trilha-java-basico/blob/main/desafios/poo/src/me/dia/rprenhol/poo/UsandoIPhone.java) contém o método **main()**.
+
 ### Diagrama de Classes UML (Mermaid)
 ```mermaid
 ---
